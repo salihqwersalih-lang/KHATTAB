@@ -1,4 +1,3 @@
-
-1  API_ID = 33553357
-2  API_HASH = "3d67159e1ad45ac46447e0a99fd695e2"
-3  SESSION = "سورس_خطاب"
+ API_ID = 33553357
+ API_HASH = "3d67159e1ad45ac46447e0a99fd695e2"
+ SESSION = "سورس_خطاب"
