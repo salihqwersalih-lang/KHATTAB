@@ -1,3 +1,4 @@
-API_ID = 123456
-API_HASH = "اكتب_الايدي_هاش_هون"
-SESSION = "سورس_خطاب"
+
+1  API_ID = 33553357
+2  API_HASH = "3d67159e1ad45ac46447e0a99fd695e2"
+3  SESSION = "سورس_خطاب"
